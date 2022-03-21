@@ -1,0 +1,32 @@
+1° Passo - Vá para o banco ou para o caixa 24 horas mais próximo de você;
+2° Passo - Adentre o local onde estão os caixas eletrônicos;
+3° Passo - Caso tenha fila, espere na mesma até chegar à sua vez; 
+4° Passo - Caso não tenha, vá para o caixa e verifique se o mesmo está funcionando; 
+5° Passo - Se não estiver funcionando, verifique os outros caixas até encontrar um que esteja funcionando;
+6° Passo - Após encontrar um caixa que esteja funcionando normalmente, retire o cartão do lugar em que você guardou (bolsa, carteira, bolso da calça e ETC);
+7° Passo - Insira com cuidado o cartão no local apropriado do caixa eletrônico, após verificar se o lado dele está correto;
+8° Passo - Espere que a tela inicial apareça;
+9° Passo - Caso você não tenha visto o seu extrato em um aplicativo antes, siga os seguintes passos {
+- Clique na opção de ver o seu extrato;
+- Caso você tenha o cadastro da sua biometria no banco, apenas insira a sua digital no leitor para poder visualizar o seu extrato; 
+- Caso não tenha, insira a sua senha;
+- Retire o cartão e espere o papel do extrato sair do caixa ou aparecer na tela do mesmo; 
+- Veja o extrato; 
+- Veja a tela de encerramento da sessão;
+}
+10° Passo – Caso você já saiba o seu extrato, apenas pule a nona etapa;
+11° Passo - Insira com cuidado o cartão no local apropriado do caixa eletrônico, após verificar se o lado dele está correto;
+12° Passo - Espere que a tela inicial apareça;
+13° Passo - Clique na opção de saque; 
+14° Passo - Clique em um valor já predeterminado pelo caixa ou insira o valor que deseja sacar;
+15° Passo - Confirme o valor do saque; 
+16° Passo - Caso você tenha o cadastro da sua biometria no banco, apenas insira a sua digital no leitor para poder sacar o dinheiro;
+17° Passo - Caso não tenha, insira a sua senha; 
+18° Passo - Retire o cartão da máquina; 
+19° Passo - Espere o dinheiro sair e o pegue;
+20° Passo - Confira se a quantia está correta;
+21° Passo - Guarde o cartão e o dinheiro no local de sua preferência (bolsa, carteira, bolso da calça e ETC);
+22° Passo - Veja a tela de encerramento da sessão;
+23° Passo - Se retire do local; 
+24° Passo - Vá para o local de sua preferência (casa, shopping ou qualquer outro local);
+25° Passo - Use o seu dinheiro da maneira que você preferir;

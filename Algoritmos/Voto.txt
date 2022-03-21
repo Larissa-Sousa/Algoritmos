@@ -1,0 +1,6 @@
+- Peça para o usuário inserir a sua idade;
+- Armazene e verifique a idade;
+- Se a idade for inferior a 16 anos, então exiba a seguinte mensagem: “Você não pode votar”;
+- Senão, se a idade for igual ou maior que 16 anos e inferior a 18 anos, então exiba a seguinte mensagem: “Seu voto é opcional”;
+- Senão, se a idade for igual ou maior que 18 anos e inferior que 70 anos, então exiba a seguinte mensagem: “Seu voto é obrigatório”;
+- Senão, se a idade for igual ou maior que 70 anos, então exiba a seguinte mensagem: “Seu voto é opcional”.
